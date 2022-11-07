@@ -1,8 +1,11 @@
-This is a write up for the anonymous room on tryhackme, hope you enjoy
+---
+layout: post
+title: Tryhackme Writeup for Anonymous
+---
 
-----------------------------------------------------------------------------
-[[Threader3000]]
+
 First, i use threader3000 to find what ports are open
+
 ![threader3000](https://user-images.githubusercontent.com/91182217/135233000-f047ef94-b49e-4930-8910-86fa4594c446.PNG)
 
 Next i use nmap to scan it thoroughly 
