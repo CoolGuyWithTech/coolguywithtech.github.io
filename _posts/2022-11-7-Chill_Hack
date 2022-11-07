@@ -8,7 +8,7 @@ so no pressure (っ＾▿＾)۶🍸🌟🍺٩(˘◡˘ ) have a drink
 First we do a normal nmap scan to check what services are up. (I try using threader3000 but it doesn't work for this room)
 
 
-![[Attachment/Chill Hack/nmap.png]]
+![nmap](https://github.com/CoolGuyWithTech/coolguywithtech.github.io/blob/master/_posts/Attachment/Chill%20Hack/Pasted%20image%2020211101160717.png)
 
 So we that FTP, SSH and HTTP is open
 <br>
