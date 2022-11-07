@@ -119,6 +119,5 @@ Here is a write-up and a link for lxd PE
 https://reboare.github.io/lxd/lxd-escape.html
 https://musyokaian.medium.com/anonymous-tryhackme-c15478d23623
 
-[[lxd]]
 
 Thanks for reading until this point, hope you enjoy the write up and if there is any comment feel free to talk about it.  Fluffy Signout~~ ʕ•́ᴥ•̀ʔっ
