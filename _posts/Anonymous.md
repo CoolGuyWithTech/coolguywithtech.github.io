@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Tryhackme Writeup for Anonymous
+title: Blogging Like a Hacker
 ---
-
 
 First, i use threader3000 to find what ports are open
 
