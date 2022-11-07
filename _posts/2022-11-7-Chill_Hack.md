@@ -3,8 +3,6 @@ layout: post
 title: Tryhackme Writeup for Chill Hack
 ---
 
-# Chill Hack	
-
 Hello, today i'm gonna solve the room chill hack from tryhackme. Hope you enjoy
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
