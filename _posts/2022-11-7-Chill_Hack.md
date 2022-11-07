@@ -13,6 +13,7 @@ First we do a normal nmap scan to check what services are up. (I try using threa
 
 ![nmap](https://github.com/CoolGuyWithTech/coolguywithtech.github.io/blob/master/_posts/Attachment/Brooklyn99/nmap.png)
 
+
 So we that FTP, SSH and HTTP is open
 <br>
 
