@@ -11,7 +11,7 @@ Hello, today i'm gonna solve the room chill hack from tryhackme. Hope you enjoy
 
 I first use nmap to see what ports are open
 
-![nmap_scan](https://github.com/CoolGuyWithTech/Cybersecurity/blob/main/Attachment/Chill%20Hack/nmap.png)
+![nmap_scan](https://github.com/CoolGuyWithTech/Cybersecurity/blob/main/Attachment/Chill%20Hack/nmap.png?raw=true)
 
 Port 21,22,80 is open
 <br>
