@@ -4,7 +4,7 @@ title: Tryhackme Writeup for Chill Hack
 ---
 
 Hello, Welcome Back Today I'm doing a write-up for the tryhackme room *Brooklyn Nine Nine* . This room is relatively easy and their are 2 way of solving it
-so no pressure (っ＾▿＾)۶🍸🌟🍺٩(˘◡˘ ) have a drink
+so no pressure                (っ＾▿＾)۶🍸🌟🍺٩(˘◡˘ ) have a drink
 
 -------------------------------------------------------------------------------------------------------------------------------
 
