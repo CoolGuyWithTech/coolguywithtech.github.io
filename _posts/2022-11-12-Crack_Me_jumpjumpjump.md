@@ -164,4 +164,4 @@ print("".join([chr(arr[x]) for x in range(len(arr))]))
 
 ![](https://i.imgur.com/GInZV4c.png)
 
-<center>After tweaking the script, we successfully got the flag. </center>
+After tweaking the script, we successfully got the flag.
